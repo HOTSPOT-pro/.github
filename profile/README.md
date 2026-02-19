@@ -1,12 +1,3 @@
 ## HOTSPOT 🔥
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 가족 중심의 스마트 데이터 플랫폼 
+가족 단위 데이터 사용과 정책 관리를 통합 관리하는 중심 플랫폼으로, 부모·자녀·관리자 역할에 따른 정책 기반 제어 구조를 설계했습니다.
